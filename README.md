@@ -23,4 +23,9 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ## Summary 
 
-The impact of vine-program on video games' five-star review is very small. The five-star reviews from Vine memebers only take about 0.1% of the total helpful reviews. The reviews from other customers take about 38.70% of the total helpful reviews. 
+Only few customers have Vine membership, so the impact of vine-program on video games' five-star review is very small. The five-star reviews from Vine memebers only account for 0.1% of the total helpful reviews. The reviews from other customers account for 38.70% of the total helpful reviews.  In all the five-star reviews, the reviews from Vine member only account for 0.3% of the total five-star reviews while the five-star reviews from other customers account for 99.7% of the total five-star reviews. 
+
+However, when compare the ratio of five-star reviews in different customer groups, we can see that the five-star review rate for the customers with Vine membership is apparently higher than the five-star review rate for the customers without Vine membership. 
+![image](https://user-images.githubusercontent.com/88631769/146654559-ef747bbc-69c0-4172-b225-e002b43d08de.png)
+
+In sum, there is positive bias for reviews in the Vine program. Because Amazon Vine members are more likely to provide five-star reviews. But the bias would not seriously affect the entire review for one product since only a small amount of customers participated in Vine program. 
